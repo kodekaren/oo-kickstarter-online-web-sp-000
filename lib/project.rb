@@ -5,5 +5,7 @@ class Project
     @title = title
     @backer = []
   end
+  def add_backer
+  end
 end
  
