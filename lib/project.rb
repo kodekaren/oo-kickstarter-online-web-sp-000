@@ -1,5 +1,5 @@
 class Project
-  attr_reader 
+  attr_reader
   def initialize(title)
     @title = title
   end
